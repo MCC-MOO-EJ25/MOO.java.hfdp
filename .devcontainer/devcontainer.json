@@ -3,7 +3,8 @@
 		"vscode": {
 			"extensions": [
 				"GitHub.copilot",
-				"vscjava.vscode-java-pack"
+				"vscjava.vscode-java-pack",
+				"ms-vscode.copilot-mermaid-diagram"
 			]
 		}
 	}
